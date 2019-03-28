@@ -2,8 +2,6 @@
 
 <a href="http://www.adafruit.com/products/91"><img src="assets/board.jpg?raw=true" width="500px"></a>
 
-Note: These use genuine FTDI chips, either we purchase them or they are manufactured to our specifications with the requirement of genuine FTDI chips 10/22/14 - [read more](https://blog.adafruit.com/2014/10/22/ftdi-drivers-brick-counterfeit-chips-with-latest-windows-update/).
-
 If you've ever struggled to use a solderless breadboard with an Arduino, you understand how frustrating it can be!
 
 This development board acts just like an Arduino, and works with the latest Arduino software. For many projects it can even be preferable! The kit includes all parts necessary, the assembly is straightforward and well documented, using just a soldering iron anyone can complete it within 10 or 15 minutes.
@@ -26,5 +24,3 @@ Specifications:
 - Auto-reset capability
 
 There's a lot more to read at the [USB Boarduino webpage](https://learn.adafruit.com/boarduino-kits).
-
-
